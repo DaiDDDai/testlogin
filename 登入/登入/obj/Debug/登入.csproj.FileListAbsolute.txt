@@ -1,0 +1,15 @@
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.csproj.AssemblyReference.cache
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.Form1.resources
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.Properties.Resources.resources
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.csproj.GenerateResource.cache
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.csproj.CoreCompileInputs.cache
+C:\Users\chuanchuan\source\repos\登入\登入\bin\Debug\登入.exe.config
+C:\Users\chuanchuan\source\repos\登入\登入\bin\Debug\登入.exe
+C:\Users\chuanchuan\source\repos\登入\登入\bin\Debug\登入.pdb
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.exe
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.pdb
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.Form2.resources
+C:\Users\chuanchuan\source\repos\登入\登入\bin\Debug\登入.exe.manifest
+C:\Users\chuanchuan\source\repos\登入\登入\bin\Debug\登入.application
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.exe.manifest
+C:\Users\chuanchuan\source\repos\登入\登入\obj\Debug\登入.application
